@@ -2085,6 +2085,8 @@ input, select, textarea {
 	#nav {
 		margin: 2.5em 0 0 0;
 		padding: 20px 0 0 0;
+		font-family:Calibri;
+		font-size:larger;
 		background-color:#fff;
 	}
 
@@ -2094,7 +2096,6 @@ input, select, textarea {
 
 			#nav > ul > li {
 				display: inline-block;
-				font-style: italic;
 				margin: 0 0.35em 0 0.35em;
 			}
 
@@ -2135,10 +2136,19 @@ input, select, textarea {
 
 h1 {
 	color: #0F6B5B;
+	font-family:Bahnschrift;
 	text-align:left;
 	vertical-align:middle;
 }
 
+.heading {
+	font-weight:bolder;
+	font-size:43px;
+	color: #0F6B5B;
+	font-family: Bahnschrift;
+	text-align: left;
+	vertical-align: middle;
+}
 	.dropotron {
 		border-radius: 5px;
 		background-color: #252122;
@@ -2196,7 +2206,7 @@ h1 {
 		background-repeat: no-repeat;
 		text-align: center;
 		position: relative;
-		padding: 8em 0;
+		padding: 0 0 0 0;
 		margin: 4em 0 0 0;
 	}
 
