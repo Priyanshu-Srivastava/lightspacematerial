@@ -2131,14 +2131,14 @@ input, select, textarea {
 	}
 	.logodiv{
 		height:200px;
-		border-right: 5px solid #000;
+		border-right: 5px solid #fbfbfb;
 	}
 
 h1 {
 	color: #0F6B5B;
-	font-family:Bahnschrift;
-	text-align:left;
-	vertical-align:middle;
+	font-family: Britannic Bold;
+	text-align: left;
+	vertical-align: middle;
 }
 
 .heading {
